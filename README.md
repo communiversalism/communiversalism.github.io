@@ -1,2 +1,2 @@
 # communiversalism.github.io
-Website
+This repository contains the files for the Communiversalist Church website.
